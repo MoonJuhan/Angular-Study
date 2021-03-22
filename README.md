@@ -1,5 +1,12 @@
 # Angular-Sturdy
 
+## 실행 방법
+```
+npm install
+
+ng serve --open
+```
+
 ## Angular 와 Angular.js 차이점
 
 ### 공통
